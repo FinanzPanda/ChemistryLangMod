@@ -1,0 +1,1 @@
+"block.minecraft.bamboo_hanging_sign": "Geschälter Bambusblock + Eisenbarren + Eisenklumpen",

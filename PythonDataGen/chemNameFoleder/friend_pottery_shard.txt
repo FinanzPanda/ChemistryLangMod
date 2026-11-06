@@ -1,0 +1,1 @@
+"item.minecraft.friend_pottery_shard": "Freundes-Töpferscherbe",

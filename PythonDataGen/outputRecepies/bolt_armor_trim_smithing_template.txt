@@ -1,0 +1,1 @@
+"item.minecraft.bolt_armor_trim_smithing_template": "Diamantblock + Kupferbarren + Gewachster Kupferblock + Diamant + Kupferblock + Gewachster Kupferblock + Schmiedevorlage",

@@ -1,0 +1,1 @@
+"item.minecraft.drowned_spawn_egg": "Ertrunkenen-Spawn-Ei",

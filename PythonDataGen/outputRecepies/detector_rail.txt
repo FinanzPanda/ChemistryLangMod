@@ -1,0 +1,1 @@
+"block.minecraft.detector_rail": "Stein + Redstone-Block + Eisenbarren",

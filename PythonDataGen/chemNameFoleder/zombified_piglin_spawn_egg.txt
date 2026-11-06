@@ -1,0 +1,1 @@
+"item.minecraft.zombified_piglin_spawn_egg": "Zombifizierter-Piglin-Spawn-Ei",

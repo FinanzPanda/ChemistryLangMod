@@ -1,0 +1,1 @@
+"block.minecraft.exposed_copper_grate_from_exposed_copper_stonecutting": "Angelaufener Kupferblock",

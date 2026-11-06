@@ -1,0 +1,1 @@
+"block.minecraft.lapis_ore": "Lapislazulierz",

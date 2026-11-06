@@ -1,0 +1,1 @@
+"item.minecraft.explorer_pottery_sherd": "Entdecker-Töpferscherbe",

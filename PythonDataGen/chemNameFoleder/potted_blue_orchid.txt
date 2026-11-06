@@ -1,0 +1,1 @@
+"block.minecraft.potted_blue_orchid": "Eingetopfte blaue Orchidee",

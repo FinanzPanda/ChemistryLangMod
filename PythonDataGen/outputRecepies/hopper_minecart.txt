@@ -1,0 +1,1 @@
+"item.minecraft.hopper_minecart": "Am Körp + Eisenbarren + Eisenbarren",

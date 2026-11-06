@@ -1,0 +1,1 @@
+"item.minecraft.goat_spawn_egg": "Ziegen-Spawn-Ei",

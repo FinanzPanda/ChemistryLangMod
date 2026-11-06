@@ -1,0 +1,1 @@
+"block.minecraft.copper_bulb": "Lohenrute + Kupferbarren + Redstone-Block",

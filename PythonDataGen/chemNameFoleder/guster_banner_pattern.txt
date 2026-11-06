@@ -1,0 +1,1 @@
+"item.minecraft.guster_banner_pattern": "Bannervorlage",

@@ -1,0 +1,1 @@
+"block.minecraft.cooked_rabbit_from_smoking": "Rohes Kaninchen",

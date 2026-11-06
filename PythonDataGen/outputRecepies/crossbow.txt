@@ -1,0 +1,1 @@
+"item.minecraft.crossbow": "Stock + Eisenbarren + Stock + Eisenbarren + Faden",

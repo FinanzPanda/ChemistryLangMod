@@ -1,0 +1,1 @@
+"block.minecraft.comparator": "Stock + Redstone-Staub + Bruchstein + Netherquarzerz",

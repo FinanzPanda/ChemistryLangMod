@@ -1,0 +1,1 @@
+"item.minecraft.elder_guardian_spawn_egg": "Großwächter-Spawn-Ei",

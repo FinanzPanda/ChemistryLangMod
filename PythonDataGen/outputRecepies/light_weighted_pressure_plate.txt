@@ -1,0 +1,1 @@
+"block.minecraft.light_weighted_pressure_plate": "Goldbarren",

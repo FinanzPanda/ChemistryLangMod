@@ -1,0 +1,1 @@
+"block.minecraft.iron_nugget_from_blasting": "Stock + Eisenbarren + Stock + Eisenbarren + Stock + Eisenbarren + Stock + Eisenbarren + Stock + Eisenbarren + Eisenbarren + Eisenbarren + Eisenbarren + Eisenbarren + Eiserner Rossharnisch + Kettenhaube + Kettenhemd + Kettenhose + Kettenstiefel",

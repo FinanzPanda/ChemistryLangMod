@@ -1,0 +1,1 @@
+"item.minecraft.command_block_minecart": "Befehlsblocklore",

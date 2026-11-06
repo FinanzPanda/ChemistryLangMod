@@ -1,0 +1,1 @@
+"item.minecraft.burn_pottery_shard": "Flammen-Töpferscherbe",

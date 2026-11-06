@@ -1,0 +1,1 @@
+"item.minecraft.pufferfish_spawn_egg": "Kugelfisch-Spawn-Ei",

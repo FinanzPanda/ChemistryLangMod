@@ -1,0 +1,1 @@
+"block.minecraft.target": "Weizen + Weizen + Weizen + Weizen + Weizen + Weizen + Weizen + Weizen + Weizen + Redstone-Block",

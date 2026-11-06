@@ -1,0 +1,1 @@
+"block.minecraft.netherite_sword_smithing": "Netheritplatten + Netheritplatten + Netheritplatten + Netheritplatten + Goldbarren + Goldbarren + Goldbarren + Goldbarren + Stock + Diamant + Diamant + Netherrack + Schmiedevorlage",

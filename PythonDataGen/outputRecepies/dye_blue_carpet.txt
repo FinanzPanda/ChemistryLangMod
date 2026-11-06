@@ -1,0 +1,1 @@
+"block.minecraft.dye_blue_carpet": "Lapislazuli + Schwarze Wolle + Braune Wolle + Türkise Wolle + Graue Wolle + Grüne Wolle + Hellblaue Wolle + Hellgraue Wolle + Hellgrüne Wolle + Magenta Wolle + Orange Wolle + Rosa Wolle + Violette Wolle + Rote Wolle + Gelbe Wolle + Weiße Wolle",

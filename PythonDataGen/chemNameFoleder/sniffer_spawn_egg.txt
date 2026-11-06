@@ -1,0 +1,1 @@
+"item.minecraft.sniffer_spawn_egg": "Schnüffler-Spawn-Ei",

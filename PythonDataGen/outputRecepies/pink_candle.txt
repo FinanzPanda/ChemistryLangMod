@@ -1,0 +1,1 @@
+"block.minecraft.pink_candle": "Honigwabe + Faden + Rosa Farbstoff",

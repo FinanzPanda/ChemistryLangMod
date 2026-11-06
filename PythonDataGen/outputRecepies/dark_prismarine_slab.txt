@@ -1,0 +1,1 @@
+"block.minecraft.dark_prismarine_slab": "Schwarzer Farbstoff + Prismarinscherbe",

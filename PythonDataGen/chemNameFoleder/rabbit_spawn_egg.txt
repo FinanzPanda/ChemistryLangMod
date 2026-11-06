@@ -1,0 +1,1 @@
+"item.minecraft.rabbit_spawn_egg": "Kaninchen-Spawn-Ei",

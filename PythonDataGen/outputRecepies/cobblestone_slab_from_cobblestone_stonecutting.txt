@@ -1,0 +1,1 @@
+"block.minecraft.cobblestone_slab_from_cobblestone_stonecutting": "Bruchstein",

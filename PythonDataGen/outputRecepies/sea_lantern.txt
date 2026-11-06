@@ -1,0 +1,1 @@
+"block.minecraft.sea_lantern": "Prismarinkristalle + Prismarinscherbe",

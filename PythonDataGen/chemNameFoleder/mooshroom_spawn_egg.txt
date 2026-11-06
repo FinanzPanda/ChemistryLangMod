@@ -1,0 +1,1 @@
+"item.minecraft.mooshroom_spawn_egg": "Mooshroom-Spawn-Ei",

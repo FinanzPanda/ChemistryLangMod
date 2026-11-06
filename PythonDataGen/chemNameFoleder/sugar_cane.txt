@@ -1,0 +1,1 @@
+"block.minecraft.sugar_cane": "Zuckerrohr",

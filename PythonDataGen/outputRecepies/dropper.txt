@@ -1,0 +1,1 @@
+"block.minecraft.dropper": "Bruchstein + Redstone-Block",

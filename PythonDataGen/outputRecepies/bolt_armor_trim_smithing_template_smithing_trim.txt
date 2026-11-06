@@ -1,0 +1,1 @@
+"block.minecraft.bolt_armor_trim_smithing_template_smithing_trim": "Diamant + Kupferblock + Gewachster Kupferblock + Schmiedevorlage",

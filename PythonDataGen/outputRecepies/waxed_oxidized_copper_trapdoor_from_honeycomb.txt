@@ -1,0 +1,1 @@
+"block.minecraft.waxed_oxidized_copper_trapdoor_from_honeycomb": "Oxidierte Kupferfalltür + Honigwabe",

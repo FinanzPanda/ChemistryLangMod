@@ -1,0 +1,1 @@
+"block.minecraft.deepslate_emerald_ore": "Tiefenschiefer-Smaragderz",

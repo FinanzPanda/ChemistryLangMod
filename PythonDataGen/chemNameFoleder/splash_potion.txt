@@ -1,0 +1,1 @@
+"item.minecraft.splash_potion": "Wurftrank",

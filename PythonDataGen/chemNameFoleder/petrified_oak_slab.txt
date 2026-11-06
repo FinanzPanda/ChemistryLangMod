@@ -1,0 +1,1 @@
+"block.minecraft.petrified_oak_slab": "Versteinerte Eichenholzstufe",

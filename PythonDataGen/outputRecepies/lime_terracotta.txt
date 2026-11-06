@@ -1,0 +1,1 @@
+"block.minecraft.lime_terracotta": "Ton + Grüner Farbstoff + Weißer Farbstoff",

@@ -1,0 +1,1 @@
+"block.minecraft.decorated_pot_simple": "Tonklumpen",

@@ -1,0 +1,1 @@
+"item.minecraft.wild_armor_trim_smithing_template": "Diamantblock + Bemooster Bruchstein + Diamant + Bemooster Bruchstein + Schmiedevorlage",

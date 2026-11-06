@@ -1,0 +1,1 @@
+"block.minecraft.spruce_pressure_plate": "Fichtenholzbretter",

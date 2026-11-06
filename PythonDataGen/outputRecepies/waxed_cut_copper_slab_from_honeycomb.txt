@@ -1,0 +1,1 @@
+"block.minecraft.waxed_cut_copper_slab_from_honeycomb": "Geschnittener Kupferblock + Honigwabe",

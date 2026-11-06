@@ -1,0 +1,1 @@
+"item.minecraft.blaze_spawn_egg": "Lohen-Spawn-Ei",

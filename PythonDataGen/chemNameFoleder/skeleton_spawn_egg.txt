@@ -1,0 +1,1 @@
+"item.minecraft.skeleton_spawn_egg": "Skelett-Spawn-Ei",

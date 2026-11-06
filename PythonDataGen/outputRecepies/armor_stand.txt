@@ -1,0 +1,1 @@
+"item.minecraft.armor_stand": "Stock + Glatter Stein",

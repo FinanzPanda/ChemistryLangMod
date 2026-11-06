@@ -1,0 +1,1 @@
+"block.minecraft.chiseled_stone_bricks_stone_from_stonecutting": "Bruchstein",

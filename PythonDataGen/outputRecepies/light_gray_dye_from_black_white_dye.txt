@@ -1,0 +1,1 @@
+"block.minecraft.light_gray_dye_from_black_white_dye": "Tintenbeutel + Knochenmehl + Knochenmehl",

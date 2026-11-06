@@ -1,0 +1,1 @@
+"item.minecraft.ender_dragon_spawn_egg": "Enderdrachen-Spawn-Ei",

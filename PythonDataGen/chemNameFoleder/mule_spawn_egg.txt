@@ -1,0 +1,1 @@
+"item.minecraft.mule_spawn_egg": "Maultier-Spawn-Ei",

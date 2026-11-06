@@ -1,0 +1,1 @@
+"item.minecraft.cookie": "Strohballen + Kakaobohnen",

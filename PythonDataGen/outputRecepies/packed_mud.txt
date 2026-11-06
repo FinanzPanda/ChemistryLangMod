@@ -1,0 +1,1 @@
+"block.minecraft.packed_mud": "Schlamm + Strohballen",

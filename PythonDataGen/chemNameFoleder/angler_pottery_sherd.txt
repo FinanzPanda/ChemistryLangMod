@@ -1,0 +1,1 @@
+"item.minecraft.angler_pottery_sherd": "Angler-Töpferscherbe",

@@ -1,0 +1,1 @@
+"block.minecraft.lime_shulker_box": "Hellgrüne Shulker-Kiste",

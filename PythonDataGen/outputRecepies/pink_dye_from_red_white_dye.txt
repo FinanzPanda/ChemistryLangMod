@@ -1,0 +1,1 @@
+"block.minecraft.pink_dye_from_red_white_dye": "Roter Farbstoff + Knochenmehl",

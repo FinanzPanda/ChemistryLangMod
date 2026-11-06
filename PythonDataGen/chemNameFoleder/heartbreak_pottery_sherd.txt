@@ -1,0 +1,1 @@
+"item.minecraft.heartbreak_pottery_sherd": "Herzschmerz-Töpferscherbe",

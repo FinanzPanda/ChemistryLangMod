@@ -1,0 +1,1 @@
+"block.minecraft.light_blue_bed": "Hellblaue Wolle",

@@ -1,0 +1,1 @@
+"block.minecraft.polished_blackstone_bricks_from_blackstone_stonecutting": "Schwarzstein",

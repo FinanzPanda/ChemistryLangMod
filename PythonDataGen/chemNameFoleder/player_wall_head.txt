@@ -1,0 +1,1 @@
+"block.minecraft.player_wall_head": "Spieler-Wandkopf",

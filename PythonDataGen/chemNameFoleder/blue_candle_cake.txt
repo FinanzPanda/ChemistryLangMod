@@ -1,0 +1,1 @@
+"block.minecraft.blue_candle_cake": "Kuchen mit blauer Kerze",

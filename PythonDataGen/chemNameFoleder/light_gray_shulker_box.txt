@@ -1,0 +1,1 @@
+"block.minecraft.light_gray_shulker_box": "Hellgraue Shulker-Kiste",

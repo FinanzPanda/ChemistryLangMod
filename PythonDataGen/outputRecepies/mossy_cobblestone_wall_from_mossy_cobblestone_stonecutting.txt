@@ -1,0 +1,1 @@
+"block.minecraft.mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": "Bemooster Bruchstein",

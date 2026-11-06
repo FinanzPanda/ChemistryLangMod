@@ -1,0 +1,1 @@
+"item.minecraft.sheaf_pottery_shard": "Garben-Töpferscherbe",

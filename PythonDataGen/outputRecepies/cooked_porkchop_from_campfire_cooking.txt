@@ -1,0 +1,1 @@
+"block.minecraft.cooked_porkchop_from_campfire_cooking": "Rohes Schweinefleisch",

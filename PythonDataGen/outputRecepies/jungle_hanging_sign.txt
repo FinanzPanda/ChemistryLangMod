@@ -1,0 +1,1 @@
+"block.minecraft.jungle_hanging_sign": "Entrindeter Tropenbaumstamm + Eisenbarren + Eisenklumpen",

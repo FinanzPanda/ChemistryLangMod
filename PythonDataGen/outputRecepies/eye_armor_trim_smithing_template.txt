@@ -1,0 +1,1 @@
+"item.minecraft.eye_armor_trim_smithing_template": "Diamantblock + Endstein + Diamant + Endstein + Schmiedevorlage",

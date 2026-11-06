@@ -1,0 +1,1 @@
+"block.minecraft.cooked_beef_from_campfire_cooking": "Rohes Rindfleisch",

@@ -1,0 +1,1 @@
+"item.minecraft.axolotl_spawn_egg": "Axolotl-Spawn-Ei",

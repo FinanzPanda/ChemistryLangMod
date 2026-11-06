@@ -1,0 +1,1 @@
+"block.minecraft.conduit": "Nautilusschale + Herz des Meeres",

@@ -1,0 +1,1 @@
+"block.minecraft.rib_armor_trim_smithing_template_smithing_trim": "Diamant + Netherrack + Schmiedevorlage",

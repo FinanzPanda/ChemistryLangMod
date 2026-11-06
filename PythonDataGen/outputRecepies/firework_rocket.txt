@@ -1,0 +1,1 @@
+"item.minecraft.firework_rocket": "Feuerwerksrakete",

@@ -1,0 +1,1 @@
+"block.minecraft.purpur_stairs": "Geplatzte Chorusfrucht + Purpurstufe",

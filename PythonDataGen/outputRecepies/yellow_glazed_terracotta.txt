@@ -1,0 +1,1 @@
+"block.minecraft.yellow_glazed_terracotta": "Keramik + Gelber Farbstoff",

@@ -1,0 +1,1 @@
+"block.minecraft.shaper_armor_trim_smithing_template_smithing_trim": "Diamant + Keramik + Schmiedevorlage",

@@ -1,0 +1,1 @@
+"item.minecraft.vindicator_spawn_egg": "Diener-Spawn-Ei",

@@ -1,0 +1,1 @@
+"block.minecraft.potted_flowering_azalea_bush": "Eingetopfte blühende Azalee",

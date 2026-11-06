@@ -1,0 +1,1 @@
+"block.minecraft.yellow_wool": "Gelbe Wolle",

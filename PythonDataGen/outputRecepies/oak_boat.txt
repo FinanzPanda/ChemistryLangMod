@@ -1,0 +1,1 @@
+"item.minecraft.oak_boat": "Eichenholzbretter",

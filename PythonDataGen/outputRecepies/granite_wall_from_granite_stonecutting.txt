@@ -1,0 +1,1 @@
+"block.minecraft.granite_wall_from_granite_stonecutting": "Diorit + Netherquarz",

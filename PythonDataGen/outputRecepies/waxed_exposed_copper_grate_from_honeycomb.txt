@@ -1,0 +1,1 @@
+"block.minecraft.waxed_exposed_copper_grate_from_honeycomb": "Angelaufener Kupferblock + Honigwabe",

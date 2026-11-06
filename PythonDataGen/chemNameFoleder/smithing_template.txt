@@ -1,0 +1,1 @@
+"item.minecraft.smithing_template": "Schmiedevorlage",

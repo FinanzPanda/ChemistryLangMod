@@ -1,0 +1,1 @@
+"item.minecraft.magma_cream": "Lohenrute + Schleimblock",

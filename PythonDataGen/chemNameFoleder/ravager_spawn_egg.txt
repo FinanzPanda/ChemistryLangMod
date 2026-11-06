@@ -1,0 +1,1 @@
+"item.minecraft.ravager_spawn_egg": "Verwüster-Spawn-Ei",

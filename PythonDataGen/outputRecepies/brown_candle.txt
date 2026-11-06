@@ -1,0 +1,1 @@
+"block.minecraft.brown_candle": "Honigwabe + Faden + Kakaobohnen",

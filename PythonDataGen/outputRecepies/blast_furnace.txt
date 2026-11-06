@@ -1,0 +1,1 @@
+"block.minecraft.blast_furnace": "Stein + Eisenbarren + Ofen",

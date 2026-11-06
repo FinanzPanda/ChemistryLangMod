@@ -1,0 +1,1 @@
+"block.minecraft.bamboo_fence_gate": "Stock",

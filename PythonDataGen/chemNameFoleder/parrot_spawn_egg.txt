@@ -1,0 +1,1 @@
+"item.minecraft.parrot_spawn_egg": "Papageien-Spawn-Ei",

@@ -1,0 +1,1 @@
+"item.minecraft.golden_pickaxe": "Stock + Goldbarren",

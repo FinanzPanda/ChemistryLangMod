@@ -1,0 +1,1 @@
+"block.minecraft.iron_ingot_from_smelting_deepslate_iron_ore": "Tiefenschiefer-Eisenerz",

@@ -1,0 +1,1 @@
+"block.minecraft.spruce_leaves": "Fichtennadeln",

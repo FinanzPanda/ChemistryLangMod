@@ -1,0 +1,1 @@
+"block.minecraft.lapis_lazuli_from_blasting_deepslate_lapis_ore": "Tiefenschiefer-Lapislazulierz",

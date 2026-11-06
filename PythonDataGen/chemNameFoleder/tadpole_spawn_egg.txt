@@ -1,0 +1,1 @@
+"item.minecraft.tadpole_spawn_egg": "Kaulquappen-Spawn-Ei",

@@ -1,0 +1,1 @@
+"item.minecraft.glow_item_frame": "Stock + Leder + Rahmen + Leuchttintenbeutel + Rahmen + Leuchttintenbeutel + Leuchtrahmen",

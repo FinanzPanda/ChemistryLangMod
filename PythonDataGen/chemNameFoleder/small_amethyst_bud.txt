@@ -1,0 +1,1 @@
+"block.minecraft.small_amethyst_bud": "Kleine Amethystknospe",

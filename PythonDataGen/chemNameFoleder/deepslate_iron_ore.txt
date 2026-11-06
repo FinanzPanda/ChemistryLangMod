@@ -1,0 +1,1 @@
+"block.minecraft.deepslate_iron_ore": "Tiefenschiefer-Eisenerz",

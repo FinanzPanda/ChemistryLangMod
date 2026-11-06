@@ -1,0 +1,1 @@
+"block.minecraft.waxed_weathered_chiseled_copper_from_waxed_weathered_copper_stonecutting": "Gewachster verwitterter Kupferblock",

@@ -1,0 +1,1 @@
+"block.minecraft.oak_hanging_sign": "Entrindeter Eichenstamm + Eisenbarren + Eisenklumpen",

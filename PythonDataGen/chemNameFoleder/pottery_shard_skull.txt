@@ -1,0 +1,1 @@
+"item.minecraft.pottery_shard_skull": "Totenkopf-Töpferscherbe",

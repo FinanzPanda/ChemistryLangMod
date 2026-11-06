@@ -1,0 +1,1 @@
+"block.minecraft.copper_ingot_from_smelting_copper_ore": "Kupfererz",

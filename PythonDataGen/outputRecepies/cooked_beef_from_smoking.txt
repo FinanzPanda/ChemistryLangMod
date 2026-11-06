@@ -1,0 +1,1 @@
+"block.minecraft.cooked_beef_from_smoking": "Rohes Rindfleisch",

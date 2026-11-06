@@ -1,0 +1,1 @@
+"block.minecraft.diamond_ore": "Diamanterz",

@@ -1,0 +1,1 @@
+"block.minecraft.light_gray_dye_from_gray_white_dye": "Schwarzer Farbstoff + Weißer Farbstoff + Knochenmehl",

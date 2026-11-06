@@ -1,0 +1,1 @@
+"block.minecraft.dye_gray_bed": "Schwarzer Farbstoff + Weißer Farbstoff + Schwarze Wolle + Blaue Wolle + Braune Wolle + Türkise Wolle + Grüne Wolle + Hellblaue Wolle + Hellgraue Wolle + Hellgrüne Wolle + Magenta Wolle + Orange Wolle + Rosa Wolle + Violette Wolle + Rote Wolle + Gelbe Wolle + Weiße Wolle",

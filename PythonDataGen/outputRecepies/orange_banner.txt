@@ -1,0 +1,1 @@
+"block.minecraft.orange_banner": "Orange Wolle + Stock",

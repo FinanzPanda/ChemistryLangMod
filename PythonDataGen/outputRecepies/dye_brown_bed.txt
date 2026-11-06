@@ -1,0 +1,1 @@
+"block.minecraft.dye_brown_bed": "Kakaobohnen + Schwarze Wolle + Blaue Wolle + Türkise Wolle + Graue Wolle + Grüne Wolle + Hellblaue Wolle + Hellgraue Wolle + Hellgrüne Wolle + Magenta Wolle + Orange Wolle + Rosa Wolle + Violette Wolle + Rote Wolle + Gelbe Wolle + Weiße Wolle",

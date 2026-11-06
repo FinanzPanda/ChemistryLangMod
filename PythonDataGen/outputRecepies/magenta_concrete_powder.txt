@@ -1,0 +1,1 @@
+"block.minecraft.magenta_concrete_powder": "Magenta Farbstoff + Sand + Sand + Sand + Sand + Kies + Kies + Kies + Kies",

@@ -1,0 +1,1 @@
+"item.minecraft.tadpole_bucket": "Kaulquappeneimer",

@@ -1,0 +1,1 @@
+"block.minecraft.exposed_copper": "Angelaufener Kupferblock",

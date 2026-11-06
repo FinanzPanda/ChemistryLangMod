@@ -1,0 +1,1 @@
+"block.minecraft.purple_concrete_powder": "Blauer Farbstoff + Roter Farbstoff + Sand + Sand + Sand + Sand + Kies + Kies + Kies + Kies",

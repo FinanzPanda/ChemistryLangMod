@@ -1,0 +1,1 @@
+"block.minecraft.smooth_quartz_stairs_from_smooth_quartz_stonecutting": "Quarzblock",

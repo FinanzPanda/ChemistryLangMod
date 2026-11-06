@@ -1,0 +1,1 @@
+"block.minecraft.activator_rail": "Stock + Redstone-Staub + Stock + Eisenbarren",

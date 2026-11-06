@@ -1,0 +1,1 @@
+"block.minecraft.oak_planks": "Eichenholzbretter",

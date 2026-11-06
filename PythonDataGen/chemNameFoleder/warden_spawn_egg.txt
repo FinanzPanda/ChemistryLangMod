@@ -1,0 +1,1 @@
+"item.minecraft.warden_spawn_egg": "Wärter-Spawn-Ei",

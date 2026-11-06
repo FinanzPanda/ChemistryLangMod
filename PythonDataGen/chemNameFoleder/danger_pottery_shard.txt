@@ -1,0 +1,1 @@
+"item.minecraft.danger_pottery_shard": "Gefahren-Töpferscherbe",

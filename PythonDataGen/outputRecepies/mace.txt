@@ -1,0 +1,1 @@
+"item.minecraft.mace": "Schwerer Kern + Böenrute",

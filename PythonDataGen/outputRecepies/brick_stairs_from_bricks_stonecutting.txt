@@ -1,0 +1,1 @@
+"block.minecraft.brick_stairs_from_bricks_stonecutting": "Ziegel",

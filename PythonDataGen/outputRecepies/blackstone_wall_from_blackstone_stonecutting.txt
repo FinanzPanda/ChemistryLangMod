@@ -1,0 +1,1 @@
+"block.minecraft.blackstone_wall_from_blackstone_stonecutting": "Schwarzstein",

@@ -1,0 +1,1 @@
+"block.minecraft.void_air": "Leerenluft",

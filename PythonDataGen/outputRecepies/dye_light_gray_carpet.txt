@@ -1,0 +1,1 @@
+"block.minecraft.dye_light_gray_carpet": "Hellgrauer Farbstoff + Schwarze Wolle + Blaue Wolle + Braune Wolle + Türkise Wolle + Graue Wolle + Grüne Wolle + Hellblaue Wolle + Hellgrüne Wolle + Magenta Wolle + Orange Wolle + Rosa Wolle + Violette Wolle + Rote Wolle + Gelbe Wolle + Weiße Wolle",

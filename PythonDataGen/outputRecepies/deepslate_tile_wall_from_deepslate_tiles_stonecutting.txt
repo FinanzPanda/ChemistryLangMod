@@ -1,0 +1,1 @@
+"block.minecraft.deepslate_tile_wall_from_deepslate_tiles_stonecutting": "Tiefenschieferziegel",

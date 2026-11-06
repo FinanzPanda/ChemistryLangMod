@@ -1,0 +1,1 @@
+"item.minecraft.globe_banner_pattern": "Bannervorlage",

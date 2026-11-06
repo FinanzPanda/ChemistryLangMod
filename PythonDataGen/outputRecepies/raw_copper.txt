@@ -1,0 +1,1 @@
+"item.minecraft.raw_copper": "Rohkupfer",

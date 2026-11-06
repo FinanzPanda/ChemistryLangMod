@@ -1,0 +1,1 @@
+"block.minecraft.andesite_slab_from_andesite_stonecutting": "Diorit + Bruchstein",

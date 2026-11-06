@@ -1,0 +1,1 @@
+"block.minecraft.light_gray_glazed_terracotta": "Keramik + Hellgrauer Farbstoff",

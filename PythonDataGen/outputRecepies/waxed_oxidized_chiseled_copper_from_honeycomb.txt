@@ -1,0 +1,1 @@
+"block.minecraft.waxed_oxidized_chiseled_copper_from_honeycomb": "Oxidierte geschnittene Kupferstufe + Honigwabe",

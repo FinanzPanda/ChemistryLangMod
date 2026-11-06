@@ -1,0 +1,1 @@
+"block.minecraft.potted_crimson_fungus": "Eingetopfter Karmesinpilz",

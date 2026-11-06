@@ -1,0 +1,1 @@
+"item.minecraft.fermented_spider_eye": "Spinnenauge + Brauner Pilz + Zucker",

@@ -1,0 +1,1 @@
+"block.minecraft.large_amethyst_bud": "Große Amethystknospe",

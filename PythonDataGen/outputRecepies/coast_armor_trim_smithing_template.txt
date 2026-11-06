@@ -1,0 +1,1 @@
+"item.minecraft.coast_armor_trim_smithing_template": "Diamantblock + Bruchstein + Diamant + Bruchstein + Schmiedevorlage",

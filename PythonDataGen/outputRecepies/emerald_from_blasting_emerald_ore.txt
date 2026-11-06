@@ -1,0 +1,1 @@
+"block.minecraft.emerald_from_blasting_emerald_ore": "Smaragderz",

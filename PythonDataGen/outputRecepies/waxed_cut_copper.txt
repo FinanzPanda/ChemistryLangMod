@@ -1,0 +1,1 @@
+"block.minecraft.waxed_cut_copper": "Gewachster Kupferblock",

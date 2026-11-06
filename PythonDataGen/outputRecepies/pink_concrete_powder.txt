@@ -1,0 +1,1 @@
+"block.minecraft.pink_concrete_powder": "Rosa Farbstoff + Sand + Sand + Sand + Sand + Kies + Kies + Kies + Kies",

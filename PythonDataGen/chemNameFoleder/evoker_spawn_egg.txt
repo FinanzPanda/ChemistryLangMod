@@ -1,0 +1,1 @@
+"item.minecraft.evoker_spawn_egg": "Magier-Spawn-Ei",

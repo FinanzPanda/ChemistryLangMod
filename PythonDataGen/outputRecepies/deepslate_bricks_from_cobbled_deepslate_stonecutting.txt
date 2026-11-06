@@ -1,0 +1,1 @@
+"block.minecraft.deepslate_bricks_from_cobbled_deepslate_stonecutting": "Bruchtiefenschiefer",

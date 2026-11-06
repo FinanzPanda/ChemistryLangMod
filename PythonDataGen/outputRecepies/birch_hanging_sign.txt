@@ -1,0 +1,1 @@
+"block.minecraft.birch_hanging_sign": "Entrindeter Birkenstamm + Eisenbarren + Eisenklumpen",

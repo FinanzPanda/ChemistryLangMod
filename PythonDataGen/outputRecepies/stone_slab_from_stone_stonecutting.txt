@@ -1,0 +1,1 @@
+"block.minecraft.stone_slab_from_stone_stonecutting": "Bruchstein",

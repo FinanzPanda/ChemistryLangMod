@@ -1,0 +1,1 @@
+"item.minecraft.strider_spawn_egg": "Schreiter-Spawn-Ei",

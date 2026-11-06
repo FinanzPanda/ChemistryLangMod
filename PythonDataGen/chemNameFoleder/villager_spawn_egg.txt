@@ -1,0 +1,1 @@
+"item.minecraft.villager_spawn_egg": "Dorfbewohner-Spawn-Ei",

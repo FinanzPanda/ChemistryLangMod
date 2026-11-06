@@ -1,0 +1,1 @@
+"item.minecraft.shulker_shell": "Shulker-Schale",

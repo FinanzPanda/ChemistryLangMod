@@ -1,0 +1,1 @@
+"block.minecraft.andesite_stairs": "Diorit + Bruchstein",

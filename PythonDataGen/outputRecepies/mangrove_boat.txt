@@ -1,0 +1,1 @@
+"item.minecraft.mangrove_boat": "Mangrovenholzbretter",

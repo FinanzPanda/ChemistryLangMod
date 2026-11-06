@@ -1,0 +1,1 @@
+"block.minecraft.polished_diorite_slab_from_polished_diorite_stonecutting": "Diorit",

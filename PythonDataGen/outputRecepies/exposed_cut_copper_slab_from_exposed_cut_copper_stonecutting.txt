@@ -1,0 +1,1 @@
+"block.minecraft.exposed_cut_copper_slab_from_exposed_cut_copper_stonecutting": "Angelaufener Kupferblock",

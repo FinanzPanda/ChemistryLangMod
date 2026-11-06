@@ -1,0 +1,1 @@
+"block.minecraft.tinted_glass": "Glas + Amethystscherbe",

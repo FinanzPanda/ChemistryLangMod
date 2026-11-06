@@ -1,0 +1,1 @@
+"item.minecraft.squid_spawn_egg": "Tintenfisch-Spawn-Ei",

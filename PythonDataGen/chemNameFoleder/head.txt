@@ -1,0 +1,1 @@
+"item.modifiers.head": "Auf dem Kopf:",

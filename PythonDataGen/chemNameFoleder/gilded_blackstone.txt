@@ -1,0 +1,1 @@
+"block.minecraft.gilded_blackstone": "Golddurchzogener Schwarzstein",

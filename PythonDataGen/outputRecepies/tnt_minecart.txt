@@ -1,0 +1,1 @@
+"item.minecraft.tnt_minecart": "Sand + Roter Sand + Schwarzpulver + Eisenbarren",

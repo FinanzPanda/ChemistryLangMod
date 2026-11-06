@@ -1,0 +1,1 @@
+"block.minecraft.copper_ingot_from_smelting_deepslate_copper_ore": "Tiefenschiefer-Kupfererz",

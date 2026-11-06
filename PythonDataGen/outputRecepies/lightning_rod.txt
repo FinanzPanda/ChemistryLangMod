@@ -1,0 +1,1 @@
+"block.minecraft.lightning_rod": "Kupferblock",

@@ -1,0 +1,1 @@
+"block.minecraft.waxed_exposed_cut_copper_stairs_from_honeycomb": "Angelaufener geschnittener Kupferblock + Honigwabe",

@@ -1,0 +1,1 @@
+"block.minecraft.purple_glazed_terracotta": "Keramik + Violetter Farbstoff",

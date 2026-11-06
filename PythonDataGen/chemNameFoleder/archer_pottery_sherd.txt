@@ -1,0 +1,1 @@
+"item.minecraft.archer_pottery_sherd": "Schützen-Töpferscherbe",

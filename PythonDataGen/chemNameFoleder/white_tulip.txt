@@ -1,0 +1,1 @@
+"block.minecraft.white_tulip": "Weiße Tulpe",

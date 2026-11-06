@@ -1,0 +1,1 @@
+"item.minecraft.heart_pottery_sherd": "Herz-Töpferscherbe",

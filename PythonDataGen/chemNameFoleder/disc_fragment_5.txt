@@ -1,0 +1,1 @@
+"item.minecraft.disc_fragment_5": "Plattenbruchstück",

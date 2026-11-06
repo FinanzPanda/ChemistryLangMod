@@ -1,0 +1,1 @@
+"block.minecraft.purple_shulker_box": "Violette Shulker-Kiste",

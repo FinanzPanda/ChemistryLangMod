@@ -1,0 +1,1 @@
+"block.minecraft.cooked_mutton_from_campfire_cooking": "Rohes Hammelfleisch",

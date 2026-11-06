@@ -1,0 +1,1 @@
+"block.minecraft.lapis_lazuli_from_smelting_lapis_ore": "Lapislazulierz",

@@ -1,0 +1,1 @@
+"block.minecraft.polished_blackstone_brick_slab": "Polierter Schwarzstein",

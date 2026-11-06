@@ -1,0 +1,1 @@
+"block.minecraft.honey_block": "Honigblock + Glasflasche + Glasflasche + Glasflasche + Glasflasche",

@@ -1,0 +1,1 @@
+"block.minecraft.smooth_basalt": "Basalt",

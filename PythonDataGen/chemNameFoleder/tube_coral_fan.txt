@@ -1,0 +1,1 @@
+"block.minecraft.tube_coral_fan": "Orgelkorallenfächer",

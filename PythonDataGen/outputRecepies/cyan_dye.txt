@@ -1,0 +1,1 @@
+"item.minecraft.cyan_dye": "Lapislazuli + Kaktus",

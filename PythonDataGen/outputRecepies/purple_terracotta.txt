@@ -1,0 +1,1 @@
+"block.minecraft.purple_terracotta": "Ton + Blauer Farbstoff + Roter Farbstoff",

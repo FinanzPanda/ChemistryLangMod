@@ -1,0 +1,1 @@
+"block.minecraft.poppy": "Mohn",

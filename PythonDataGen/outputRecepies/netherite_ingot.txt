@@ -1,0 +1,1 @@
+"item.minecraft.netherite_ingot": "Netheritplatten + Netheritplatten + Netheritplatten + Netheritplatten + Goldbarren + Goldbarren + Goldbarren + Goldbarren",

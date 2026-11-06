@@ -1,0 +1,1 @@
+"block.minecraft.stone_brick_stairs_from_stone_stonecutting": "Bruchstein",

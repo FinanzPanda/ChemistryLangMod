@@ -1,0 +1,1 @@
+"item.minecraft.popped_chorus_fruit": "Chorusfrucht",

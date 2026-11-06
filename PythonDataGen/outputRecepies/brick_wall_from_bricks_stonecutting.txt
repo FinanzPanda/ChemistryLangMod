@@ -1,0 +1,1 @@
+"block.minecraft.brick_wall_from_bricks_stonecutting": "Ziegel",

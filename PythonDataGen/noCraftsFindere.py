@@ -4,9 +4,12 @@ folder ="C:/Users/Karl-Theodor/Documents/Github/ChemistryLangMod/PythonDataGen"
 filepathLang= folder + "/lang/ch_ch.json"
 filepathRecip= folder + "/recipes/e"
 
+filepathChemName= folder + "/chemNameFoleder"
+folderPathCraftBle= folder + "/outputRecepies"
 
 OutputNOTCraftable=folder+"/NOTCraftble.txt"
 OutputCraftable=folder+"/Craftble.txt"
+
 
 Step= 100
 Count=0
@@ -27,6 +30,24 @@ def RecipiesCheckItem(Item, RecepieList):
     for Recipe in RecepieList:
         if Recipe == Item: return True
     return False
+
+def ItemNameSpliter(Item):
+    ItemList = Item.split(".")         
+    if not len(ItemList)==3:
+        return None
+    Name= ItemList[2].split(":")[0][:-1]
+    return Name
+
+def WriteNoCraftsToDictionary(ItemList: list, path:str):
+    for Item in ItemList:
+        Name = ItemNameSpliter(Item)
+        print(Item+" Output: "+ Name)
+        if Name != None:
+            FilePath = path + "/"+ Name+".txt"
+        file = open(FilePath,"w", encoding="utf-8")
+        file.write(Item)
+        file.close
+
 
 # File reader
 
@@ -70,8 +91,17 @@ for Name in langNames:
 
 #Save Data
 
-with open(OutputNOTCraftable, "w", encoding="utf-8") as file:
-    file.writelines([item +"\n" for item in NotCraftable])
+INPUT=input("1/2/3: ")
 
-with open(OutputCraftable, "w", encoding="utf-8") as file:
-    file.writelines([item +"\n" for item in Craftable])
+if INPUT=="1":
+    with open(OutputNOTCraftable, "w", encoding="utf-8") as file:
+        file.writelines([item +"\n" for item in NotCraftable])
+
+    with open(OutputCraftable, "w", encoding="utf-8") as file:
+        file.writelines([item +"\n" for item in Craftable])
+
+elif INPUT=="2":
+    WriteNoCraftsToDictionary(NotCraftable, filepathChemName)
+
+elif INPUT=="3":
+    WriteNoCraftsToDictionary(Craftable, folderPathCraftBle)

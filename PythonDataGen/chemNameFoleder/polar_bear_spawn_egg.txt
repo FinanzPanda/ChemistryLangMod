@@ -1,0 +1,1 @@
+"item.minecraft.polar_bear_spawn_egg": "Eisbären-Spawn-Ei",

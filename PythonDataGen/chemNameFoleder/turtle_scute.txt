@@ -1,0 +1,1 @@
+"item.minecraft.turtle_scute": "Schildkröten-Hornschild",

@@ -1,0 +1,1 @@
+"item.minecraft.salmon_spawn_egg": "Lachs-Spawn-Ei",

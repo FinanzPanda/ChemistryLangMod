@@ -1,0 +1,1 @@
+"block.minecraft.oxidized_cut_copper_slab": "Oxidierter Kupferblock",

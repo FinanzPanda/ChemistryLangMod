@@ -1,0 +1,1 @@
+"block.minecraft.purpur_block": "Chorusfrucht",

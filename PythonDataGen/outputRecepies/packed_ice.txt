@@ -1,0 +1,1 @@
+"block.minecraft.packed_ice": "Eis + Eis + Eis + Eis + Eis + Eis + Eis + Eis + Eis",

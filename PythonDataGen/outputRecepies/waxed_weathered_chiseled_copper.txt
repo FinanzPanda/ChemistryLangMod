@@ -1,0 +1,1 @@
+"block.minecraft.waxed_weathered_chiseled_copper": "Gewachster verwitterter geschnittener Kupferblock",

@@ -1,0 +1,1 @@
+"item.minecraft.snort_pottery_sherd": "Schnaub-Töpferscherbe",

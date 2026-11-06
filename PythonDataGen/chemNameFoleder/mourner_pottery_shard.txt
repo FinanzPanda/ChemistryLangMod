@@ -1,0 +1,1 @@
+"item.minecraft.mourner_pottery_shard": "Wimmerer-Töpferscherbe",

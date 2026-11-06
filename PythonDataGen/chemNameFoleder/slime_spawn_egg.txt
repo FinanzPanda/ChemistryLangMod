@@ -1,0 +1,1 @@
+"item.minecraft.slime_spawn_egg": "Schleim-Spawn-Ei",

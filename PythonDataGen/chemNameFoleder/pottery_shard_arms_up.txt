@@ -1,0 +1,1 @@
+"item.minecraft.pottery_shard_arms_up": "Gebärden-Töpferscherbe",

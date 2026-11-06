@@ -1,0 +1,1 @@
+"block.minecraft.cherry_fence_gate": "Stock + Kirschholzbretter",

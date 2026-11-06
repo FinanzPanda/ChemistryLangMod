@@ -1,0 +1,1 @@
+"block.minecraft.blue_candle": "Honigwabe + Faden + Lapislazuli",

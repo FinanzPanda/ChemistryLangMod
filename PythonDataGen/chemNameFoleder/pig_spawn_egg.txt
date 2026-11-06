@@ -1,0 +1,1 @@
+"item.minecraft.pig_spawn_egg": "Schweine-Spawn-Ei",

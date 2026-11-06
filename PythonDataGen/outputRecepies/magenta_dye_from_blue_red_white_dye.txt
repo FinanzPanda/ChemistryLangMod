@@ -1,0 +1,1 @@
+"block.minecraft.magenta_dye_from_blue_red_white_dye": "Lapislazuli + Roter Farbstoff + Roter Farbstoff + Knochenmehl",

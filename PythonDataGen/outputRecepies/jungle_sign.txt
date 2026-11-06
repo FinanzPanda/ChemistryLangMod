@@ -1,0 +1,1 @@
+"block.minecraft.jungle_sign": "Tropenholzbretter + Stock",

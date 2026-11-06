@@ -1,0 +1,1 @@
+"block.minecraft.red_sandstone_slab": "Roter Sand + Rote Sandsteinstufe",

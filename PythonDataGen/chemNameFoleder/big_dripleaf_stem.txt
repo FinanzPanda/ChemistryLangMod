@@ -1,0 +1,1 @@
+"block.minecraft.big_dripleaf_stem": "Großer Tropfblattstiel",

@@ -1,0 +1,1 @@
+"item.minecraft.cave_spider_spawn_egg": "Höhlenspinnen-Spawn-Ei",

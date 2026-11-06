@@ -1,0 +1,1 @@
+"block.minecraft.enchanting_table": "Obsidian + Papier + Papier + Papier + Leder + Diamantblock",

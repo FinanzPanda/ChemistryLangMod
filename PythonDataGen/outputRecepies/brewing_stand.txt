@@ -1,0 +1,1 @@
+"item.minecraft.brewing_stand": "Lohenrute",

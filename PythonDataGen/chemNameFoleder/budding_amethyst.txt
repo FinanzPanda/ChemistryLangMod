@@ -1,0 +1,1 @@
+"block.minecraft.budding_amethyst": "Amethystknospenblock",

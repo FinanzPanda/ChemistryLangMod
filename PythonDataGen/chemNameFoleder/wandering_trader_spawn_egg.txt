@@ -1,0 +1,1 @@
+"item.minecraft.wandering_trader_spawn_egg": "Fahrender-Händler-Spawn-Ei",

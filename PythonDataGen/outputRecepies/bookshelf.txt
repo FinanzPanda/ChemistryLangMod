@@ -1,0 +1,1 @@
+"block.minecraft.bookshelf": "Papier + Papier + Papier + Leder",

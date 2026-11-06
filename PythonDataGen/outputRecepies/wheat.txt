@@ -1,0 +1,1 @@
+"item.minecraft.wheat": "Weizen + Weizen + Weizen + Weizen + Weizen + Weizen + Weizen + Weizen + Weizen",

@@ -1,0 +1,1 @@
+"block.minecraft.skeleton_wall_skull": "Skelett-Wandschädel",

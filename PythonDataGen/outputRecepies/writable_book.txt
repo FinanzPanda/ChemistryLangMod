@@ -1,0 +1,1 @@
+"item.minecraft.writable_book": "Papier + Papier + Papier + Leder + Tintenbeutel + Feder",

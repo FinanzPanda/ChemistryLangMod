@@ -1,0 +1,1 @@
+"item.minecraft.magma_cube_spawn_egg": "Magmawürfel-Spawn-Ei",

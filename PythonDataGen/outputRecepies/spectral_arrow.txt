@@ -1,0 +1,1 @@
+"item.minecraft.spectral_arrow": "Leuchtsteinstaub + Stock + Feuerstein + Feder",

@@ -1,0 +1,1 @@
+"block.minecraft.yellow_concrete_powder": "Gelber Farbstoff + Sand + Sand + Sand + Sand + Kies + Kies + Kies + Kies",

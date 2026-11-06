@@ -1,0 +1,1 @@
+"block.minecraft.weathered_copper": "Verwitterter Kupferblock",

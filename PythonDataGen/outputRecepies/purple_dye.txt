@@ -1,0 +1,1 @@
+"item.minecraft.purple_dye": "Lapislazuli + Roter Farbstoff",

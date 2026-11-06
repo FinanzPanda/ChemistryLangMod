@@ -1,0 +1,1 @@
+"block.minecraft.granite_stairs": "Diorit + Netherquarz",

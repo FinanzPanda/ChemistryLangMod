@@ -1,0 +1,1 @@
+"block.minecraft.dried_kelp_from_campfire_cooking": "Seetang",

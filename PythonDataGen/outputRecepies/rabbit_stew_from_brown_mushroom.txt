@@ -1,0 +1,1 @@
+"block.minecraft.rabbit_stew_from_brown_mushroom": "Kartoffel + Rohes Kaninchen + Schüssel + Karotte + Brauner Pilz",

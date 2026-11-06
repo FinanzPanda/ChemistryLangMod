@@ -1,0 +1,1 @@
+"block.minecraft.gray_stained_glass_pane": "Glas + Grauer Farbstoff",

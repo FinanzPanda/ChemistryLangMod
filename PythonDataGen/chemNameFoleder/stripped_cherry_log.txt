@@ -1,0 +1,1 @@
+"block.minecraft.stripped_cherry_log": "Entrindeter Kirschstamm",

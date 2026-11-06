@@ -1,0 +1,1 @@
+"block.minecraft.cut_sandstone_slab": "Sandstein",

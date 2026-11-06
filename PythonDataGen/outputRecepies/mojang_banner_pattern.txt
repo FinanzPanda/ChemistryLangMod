@@ -1,0 +1,1 @@
+"item.minecraft.mojang_banner_pattern": "Zuckerrohr + Verzauberter goldener Apfel",

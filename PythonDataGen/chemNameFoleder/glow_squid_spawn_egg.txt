@@ -1,0 +1,1 @@
+"item.minecraft.glow_squid_spawn_egg": "Leuchttintenfisch-Spawn-Ei",

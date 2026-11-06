@@ -1,0 +1,1 @@
+"block.minecraft.potted_jungle_sapling": "Eingetopfter Tropenbaumsetzling",

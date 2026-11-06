@@ -1,0 +1,1 @@
+"block.minecraft.tuff_slab_from_tuff_stonecutting": "Tuffstein",

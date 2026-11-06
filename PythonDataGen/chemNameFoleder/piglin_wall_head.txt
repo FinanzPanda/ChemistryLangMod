@@ -1,0 +1,1 @@
+"block.minecraft.piglin_wall_head": "Piglin-Wandkopf",

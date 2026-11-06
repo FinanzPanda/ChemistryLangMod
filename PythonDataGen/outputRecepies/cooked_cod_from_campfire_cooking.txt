@@ -1,0 +1,1 @@
+"block.minecraft.cooked_cod_from_campfire_cooking": "Roher Kabeljau",

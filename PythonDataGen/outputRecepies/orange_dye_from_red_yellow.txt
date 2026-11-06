@@ -1,0 +1,1 @@
+"block.minecraft.orange_dye_from_red_yellow": "Roter Farbstoff + Gelber Farbstoff",

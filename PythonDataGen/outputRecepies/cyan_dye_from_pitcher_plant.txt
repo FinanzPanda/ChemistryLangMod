@@ -1,0 +1,1 @@
+"block.minecraft.cyan_dye_from_pitcher_plant": "Kannenpflanze",

@@ -1,0 +1,1 @@
+"block.minecraft.oxidized_copper_trapdoor": "Oxidierte Kupferfalltür",

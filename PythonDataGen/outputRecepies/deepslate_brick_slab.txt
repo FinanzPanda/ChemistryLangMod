@@ -1,0 +1,1 @@
+"block.minecraft.deepslate_brick_slab": "Polierter Tiefenschiefer",

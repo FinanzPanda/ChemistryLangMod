@@ -1,0 +1,1 @@
+"item.minecraft.ominous_trial_key": "Unheilvoller Prüfungsschlüssel",

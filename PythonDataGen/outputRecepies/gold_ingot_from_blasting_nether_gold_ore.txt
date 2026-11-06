@@ -1,0 +1,1 @@
+"block.minecraft.gold_ingot_from_blasting_nether_gold_ore": "Nethergolderz",

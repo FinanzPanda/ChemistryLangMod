@@ -1,0 +1,1 @@
+"item.minecraft.snout_armor_trim_smithing_template": "Diamantblock + Schwarzstein + Diamant + Schwarzstein + Schmiedevorlage",

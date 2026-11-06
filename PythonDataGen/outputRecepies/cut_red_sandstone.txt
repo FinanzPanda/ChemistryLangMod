@@ -1,0 +1,1 @@
+"block.minecraft.cut_red_sandstone": "Roter Sand",

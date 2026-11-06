@@ -1,0 +1,1 @@
+"block.minecraft.prismarine_slab_from_prismarine_stonecutting": "Prismarinscherbe",

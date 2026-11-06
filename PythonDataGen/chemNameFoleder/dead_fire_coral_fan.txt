@@ -1,0 +1,1 @@
+"block.minecraft.dead_fire_coral_fan": "Abgestorbener Feuerkorallenfächer",

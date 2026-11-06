@@ -1,0 +1,1 @@
+"block.minecraft.nether_bricks": "Netherrack",

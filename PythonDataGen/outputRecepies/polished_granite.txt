@@ -1,0 +1,1 @@
+"block.minecraft.polished_granite": "Diorit + Netherquarz",

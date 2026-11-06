@@ -1,0 +1,1 @@
+"block.minecraft.oxidized_copper_grate_from_oxidized_copper_stonecutting": "Oxidierter Kupferblock",

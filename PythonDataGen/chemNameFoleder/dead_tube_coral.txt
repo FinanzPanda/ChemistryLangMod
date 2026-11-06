@@ -1,0 +1,1 @@
+"block.minecraft.dead_tube_coral": "Abgestorbene Orgelkoralle",

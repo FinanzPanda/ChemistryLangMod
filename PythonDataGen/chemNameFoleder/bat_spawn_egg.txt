@@ -1,0 +1,1 @@
+"item.minecraft.bat_spawn_egg": "Fledermaus-Spawn-Ei",

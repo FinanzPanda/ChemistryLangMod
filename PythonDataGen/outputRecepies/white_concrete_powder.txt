@@ -1,0 +1,1 @@
+"block.minecraft.white_concrete_powder": "Knochenmehl + Sand + Sand + Sand + Sand + Kies + Kies + Kies + Kies",

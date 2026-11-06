@@ -1,0 +1,1 @@
+"block.minecraft.dark_prismarine_slab_from_dark_prismarine_stonecutting": "Schwarzer Farbstoff + Prismarinscherbe",

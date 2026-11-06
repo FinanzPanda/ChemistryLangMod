@@ -1,0 +1,1 @@
+"block.minecraft.sandstone_slab_from_sandstone_stonecutting": "Sand",

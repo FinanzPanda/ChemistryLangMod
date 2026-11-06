@@ -1,0 +1,1 @@
+"block.minecraft.cracked_deepslate_tiles": "Tiefenschieferziegel",

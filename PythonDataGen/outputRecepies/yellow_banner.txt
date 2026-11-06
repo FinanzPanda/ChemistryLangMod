@@ -1,0 +1,1 @@
+"block.minecraft.yellow_banner": "Gelbe Wolle + Stock",

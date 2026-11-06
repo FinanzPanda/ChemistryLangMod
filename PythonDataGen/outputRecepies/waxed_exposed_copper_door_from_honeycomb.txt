@@ -1,0 +1,1 @@
+"block.minecraft.waxed_exposed_copper_door_from_honeycomb": "Angelaufene Kupfertür + Honigwabe",

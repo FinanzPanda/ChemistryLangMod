@@ -1,0 +1,1 @@
+"block.minecraft.black_dye_from_wither_rose": "Wither-Rose",

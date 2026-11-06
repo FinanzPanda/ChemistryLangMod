@@ -1,0 +1,1 @@
+"block.minecraft.magenta_dye_from_blue_red_pink": "Lapislazuli + Roter Farbstoff + Rosa Farbstoff",

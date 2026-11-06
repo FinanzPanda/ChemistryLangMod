@@ -1,0 +1,1 @@
+"block.minecraft.waxed_copper_grate_from_waxed_copper_block_stonecutting": "Gewachster Kupferblock",

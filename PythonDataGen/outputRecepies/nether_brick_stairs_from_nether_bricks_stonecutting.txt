@@ -1,0 +1,1 @@
+"block.minecraft.nether_brick_stairs_from_nether_bricks_stonecutting": "Netherziegel",

@@ -1,0 +1,1 @@
+"item.minecraft.armadillo_spawn_egg": "Gürteltier-Spawn-Ei",

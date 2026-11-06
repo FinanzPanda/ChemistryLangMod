@@ -1,0 +1,1 @@
+"block.minecraft.daylight_detector": "Glas + Netherquarzerz",

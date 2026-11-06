@@ -1,0 +1,1 @@
+"block.minecraft.pointed_dripstone": "Spitzer Tropfstein",

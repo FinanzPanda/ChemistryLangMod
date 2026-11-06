@@ -1,0 +1,1 @@
+"block.minecraft.diamond_from_smelting_deepslate_diamond_ore": "Tiefenschiefer-Diamanterz",

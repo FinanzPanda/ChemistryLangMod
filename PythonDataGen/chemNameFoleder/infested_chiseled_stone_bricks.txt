@@ -1,0 +1,1 @@
+"block.minecraft.infested_chiseled_stone_bricks": "Befallene gemeißelte Steinziegel",

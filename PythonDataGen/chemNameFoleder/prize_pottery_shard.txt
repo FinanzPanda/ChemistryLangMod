@@ -1,0 +1,1 @@
+"item.minecraft.prize_pottery_shard": "Juwelen-Töpferscherbe",

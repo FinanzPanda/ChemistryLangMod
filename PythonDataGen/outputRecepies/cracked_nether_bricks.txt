@@ -1,0 +1,1 @@
+"block.minecraft.cracked_nether_bricks": "Netherziegel",

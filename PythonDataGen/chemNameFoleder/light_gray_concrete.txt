@@ -1,0 +1,1 @@
+"block.minecraft.light_gray_concrete": "Hellgrauer Beton",

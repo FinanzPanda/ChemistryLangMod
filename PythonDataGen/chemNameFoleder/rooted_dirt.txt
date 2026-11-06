@@ -1,0 +1,1 @@
+"block.minecraft.rooted_dirt": "Wurzelerde",

@@ -1,0 +1,1 @@
+"block.minecraft.brown_shulker_box": "Braune Shulker-Kiste",

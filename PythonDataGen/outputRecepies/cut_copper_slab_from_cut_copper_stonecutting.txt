@@ -1,0 +1,1 @@
+"block.minecraft.cut_copper_slab_from_cut_copper_stonecutting": "Kupferblock",

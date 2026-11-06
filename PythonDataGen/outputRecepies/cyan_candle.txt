@@ -1,0 +1,1 @@
+"block.minecraft.cyan_candle": "Honigwabe + Faden + Blauer Farbstoff + Grüner Farbstoff",

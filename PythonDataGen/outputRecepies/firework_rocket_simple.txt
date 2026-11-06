@@ -1,0 +1,1 @@
+"block.minecraft.firework_rocket_simple": "Schwarzpulver + Zuckerrohr",

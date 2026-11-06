@@ -1,0 +1,1 @@
+"item.minecraft.blade_pottery_shard": "Klingen-Töpferscherbe",

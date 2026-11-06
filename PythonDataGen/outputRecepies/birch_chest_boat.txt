@@ -1,0 +1,1 @@
+"item.minecraft.birch_chest_boat": "Am Körp + Birkenholzbretter",

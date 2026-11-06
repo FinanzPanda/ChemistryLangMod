@@ -1,0 +1,1 @@
+"block.minecraft.carved_pumpkin": "Geschnitzter Kürbis",

@@ -1,0 +1,1 @@
+"item.minecraft.ocelot_spawn_egg": "Ozelot-Spawn-Ei",

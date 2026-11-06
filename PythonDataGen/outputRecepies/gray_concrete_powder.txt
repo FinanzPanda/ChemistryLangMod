@@ -1,0 +1,1 @@
+"block.minecraft.gray_concrete_powder": "Schwarzer Farbstoff + Weißer Farbstoff + Sand + Sand + Sand + Sand + Kies + Kies + Kies + Kies",

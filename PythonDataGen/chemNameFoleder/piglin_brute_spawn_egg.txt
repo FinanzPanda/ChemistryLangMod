@@ -1,0 +1,1 @@
+"item.minecraft.piglin_brute_spawn_egg": "Piglin-Barbaren-Spawn-Ei",

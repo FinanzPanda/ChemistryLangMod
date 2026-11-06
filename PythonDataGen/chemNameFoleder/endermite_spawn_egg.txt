@@ -1,0 +1,1 @@
+"item.minecraft.endermite_spawn_egg": "Endermiten-Spawn-Ei",

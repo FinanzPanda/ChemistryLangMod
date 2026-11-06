@@ -1,0 +1,1 @@
+"block.minecraft.purpur_slab": "Geplatzte Chorusfrucht + Purpurstufe",

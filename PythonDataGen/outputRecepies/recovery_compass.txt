@@ -1,0 +1,1 @@
+"item.minecraft.recovery_compass": "Eisenbarren + Redstone-Staub + Echoscherbe",

@@ -1,0 +1,1 @@
+"block.minecraft.trial_spawner": "Prüfungs-Spawner",

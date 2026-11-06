@@ -1,0 +1,1 @@
+"block.minecraft.stripped_bamboo_block": "Geschälter Bambusblock",

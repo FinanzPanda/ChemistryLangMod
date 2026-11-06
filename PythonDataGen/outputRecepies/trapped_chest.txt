@@ -1,0 +1,1 @@
+"block.minecraft.trapped_chest": "Am Körp + Eisenbarren + Stock",

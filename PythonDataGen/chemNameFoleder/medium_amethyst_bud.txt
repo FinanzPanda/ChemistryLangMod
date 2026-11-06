@@ -1,0 +1,1 @@
+"block.minecraft.medium_amethyst_bud": "Mittlere Amethystknospe",

@@ -1,0 +1,1 @@
+"block.minecraft.spore_blossom": "Sporenblüte",

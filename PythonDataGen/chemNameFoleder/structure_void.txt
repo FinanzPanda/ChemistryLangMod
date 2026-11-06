@@ -1,0 +1,1 @@
+"block.minecraft.structure_void": "Konstruktionsleere",

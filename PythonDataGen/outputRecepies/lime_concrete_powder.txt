@@ -1,0 +1,1 @@
+"block.minecraft.lime_concrete_powder": "Grüner Farbstoff + Weißer Farbstoff + Sand + Sand + Sand + Sand + Kies + Kies + Kies + Kies",

@@ -1,0 +1,1 @@
+"block.minecraft.potted_cherry_sapling": "Eingetopfter Kirschsetzling",

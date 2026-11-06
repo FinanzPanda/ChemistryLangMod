@@ -1,0 +1,1 @@
+"block.minecraft.light_blue_dye_from_blue_orchid": "Blaue Orchidee",

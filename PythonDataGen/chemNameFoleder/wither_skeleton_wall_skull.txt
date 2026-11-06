@@ -1,0 +1,1 @@
+"block.minecraft.wither_skeleton_wall_skull": "Wither-Skelett-Wandschädel",

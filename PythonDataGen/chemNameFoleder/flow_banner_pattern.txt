@@ -1,0 +1,1 @@
+"item.minecraft.flow_banner_pattern": "Bannervorlage",

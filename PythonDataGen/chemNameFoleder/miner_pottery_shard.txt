@@ -1,0 +1,1 @@
+"item.minecraft.miner_pottery_shard": "Bergarbeiter-Töpferscherbe",

@@ -1,0 +1,1 @@
+"block.minecraft.mud_brick_slab": "Fester Schlamm",

@@ -1,0 +1,1 @@
+"item.minecraft.yellow_dye": "Gelber Farbstoff",

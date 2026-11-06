@@ -1,0 +1,1 @@
+"block.minecraft.end_rod": "Chorusfrucht + Lohenrute",

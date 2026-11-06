@@ -1,0 +1,1 @@
+"item.minecraft.spider_spawn_egg": "Spinnen-Spawn-Ei",

@@ -1,0 +1,1 @@
+"item.minecraft.phantom_spawn_egg": "Phantom-Spawn-Ei",

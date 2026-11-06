@@ -1,0 +1,1 @@
+"block.minecraft.waxed_exposed_chiseled_copper_from_waxed_exposed_cut_copper_stonecutting": "Gewachster angelaufener Kupferblock",

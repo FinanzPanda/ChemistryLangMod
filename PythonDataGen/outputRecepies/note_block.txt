@@ -1,0 +1,1 @@
+"block.minecraft.note_block": "Redstone-Block",

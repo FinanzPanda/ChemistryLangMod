@@ -1,0 +1,1 @@
+"block.minecraft.chiseled_sandstone": "Sandstein + Gemeißelter Sandstein",

@@ -1,0 +1,1 @@
+"item.minecraft.zoglin_spawn_egg": "Zoglin-Spawn-Ei",
